@@ -1,4 +1,4 @@
 # apnacode
 this is my git repository
 <br>
-author - demendra dhruw
+author - demendra (apna code)
